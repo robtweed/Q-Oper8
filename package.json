@@ -8,7 +8,7 @@
     "url": "git://github.com/robtweed/Q-Oper8.git"
   },
   "bugs": {
-    "web": "http://github.com/robtweed/ewdGateway/issues" 
+    "web": "https://github.com/robtweed/Q-Oper8/issues" 
   },
   "os": [ "linux", "darwin" ],
   "directories": { "lib": "./lib/" },
