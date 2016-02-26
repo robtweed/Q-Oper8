@@ -1,5 +1,13 @@
 # Q-Oper8
 
+# IMPORTANT NOTICE
+
+# THIS MODULE HAS NOW BEEN DEPRECATED - USE ewd-qoper8 INSTEAD
+
+See [https://github.com/robtweed/ewd-qoper8.git](https://github.com/robtweed/ewd-qoper8.git)
+
+# ==========================================
+
 Simple multi-process manager for Node.js
 
 Rob Tweed <rtweed@mgateway.com>  
