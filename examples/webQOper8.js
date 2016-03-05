@@ -68,7 +68,7 @@ qoper8.start(params, function() {
       else {
         console.log("uri = " + uri);
         var fileName = "/var/www/" + uri;
-        path.exists(fileName, function(exists) {  
+        fs.exists(fileName, function(exists) {  
           if(!exists) {  
             display404(response);  
             return;  
